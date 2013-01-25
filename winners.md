@@ -1,40 +1,12 @@
-2008
+2012
 ----
 
-Firefox
-=======
-
-- auclai_v 
-- **corfa_u**
-- freier_n
-- roquef_q
-- **touron_m**
-
-2009
-----
-
-libertine72
-===========
-
-
-- **boesch_c**
-- bonlie_e
-- cadic_e
-- **castet_j**
-- **mouial_m**
-- sanche_t
-
-2010
-----
-
-mobylette
-=========
-
-- beaupl_b
-- fouill_y
-- germon_d
-- lebrun_m
-- **rannou_s**
+- la_b
+- suor_s
+- ly_h
+- lim_i
+- rattan_m
+- lin_g
 
 2011
 ----
@@ -49,14 +21,41 @@ sida owner
 - gelin_g
 - **lepage_b**
 
-2012
+2010
 ----
 
-- la_b
-- suor_s
-- ly_h
-- lim_i
-- rattan_m
-- lin_g
+mobylette
+=========
 
-**gras**: ils sont ou ont ete membres a l'ESL
+- beaupl_b
+- fouill_y
+- germon_d
+- lebrun_m
+- **rannou_s**
+
+2009
+----
+
+libertine72
+===========
+
+- **boesch_c**
+- bonlie_e
+- cadic_e
+- **castet_j**
+- **mouial_m**
+- sanche_t
+
+2008
+----
+
+Firefox
+=======
+
+- auclai_v 
+- **corfa_u**
+- freier_n
+- roquef_q
+- **touron_m**
+
+**noms en gras**: ils sont ou ont ete membres a l'ESL
