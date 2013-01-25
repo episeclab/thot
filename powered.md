@@ -49,3 +49,7 @@ m1ch3l
 - [mpd](http://mpd.wikia.com/)
 - [espeak](http://espeak.sourceforge.net/)
 - [gorobot](https://github.com/aimxhaisse/gorobot)
+- LiquidSoap
+- IceCast
+- Node.js
+- Coffee-Script
