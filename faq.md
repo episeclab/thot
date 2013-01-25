@@ -32,11 +32,13 @@ Oui, une monnaie qui a cours dans notre pays.
 Les points ?
 ------------
 
-Pour gagner des points, il suffit de finir une mission. Pour chaque mission terminée, 300 points vous sont attribués.
+Pour gagner des points, il suffit de finir une mission.
 
-Maintenant il existe une chose très drole, c’est que ce total de 300 points est divisé par deux fois le nombre de validations par les autres equipes. En gros :
+Pour chaque mission terminée, 300 points vous sont attribués.
 
-```Pts = (Nombre de levels finis) * (300 / (2 * NbrPersonnes))```
+Maintenant il existe une chose très drole, c’est que ce total de 300 points est divisé par deux fois le nombre de validations par les autres equipes.
+
+En gros : ```Pts = (Nombre de levels finis) * (300 / (2 * NbrPersonnes))```
 
 Le but est bien évidemment de limiter au maximum les gens qui filent la solution d’un niveau sans se poser de questions.
 
@@ -51,13 +53,21 @@ Une médaille aux trois premiers à finir une mission.
 Je peux utiliser un scanner de vulnerabilites pour m'aider ? Je suis totalement bloque !
 ----------------------------------------------------------------------------------------
 
-Ce n'est pas le but du projet. Pour chaque niveau valide, vous devez nous soumettre une explication. "Utilisation d'un scanner" n'est pas une explication qui sera validee. De plus, ces outils ont tendance a flooder nos serveurs et vous savez ce que nous en pensons.
+Ce n'est pas le but du projet. Pour chaque niveau valide, vous devez nous soumettre une explication.
+
+"Utilisation d'un scanner" n'est pas une explication qui sera validee.
+
+De plus, ces outils ont tendance a flooder nos serveurs et vous savez ce que nous en pensons.
 
 
 Je n’ai plus de kekos, je suis un gros c.., j’ai tout dépensé et je suis bloqué... Je fais quoi ?
 -------------------------------------------------------------------------------------------------
 
-Normalement tu as perdu. Si tu n'es pas foutu de survivre ou de rester un minimum anonyme, tu ne mérites pas ton module. Il reste les coupons, ou explique nous ton cas par mail, on verra ce qu’on peut faire. Ce n’est arrivé à personne depuis 3,14 ans.
+Normalement tu as perdu. Si tu n'es pas foutu de survivre ou de rester un minimum anonyme, tu ne mérites pas ton module.
+
+Il reste les coupons, ou explique nous ton cas par mail, on verra ce qu’on peut faire.
+
+Ce n’est arrivé à personne depuis 3,14 ans.
 
 
 Je comprend pas je suis passé admin du level, mais je trouve pas la chaîne à valider ?
@@ -68,12 +78,20 @@ Je comprend pas je suis passé admin du level, mais je trouve pas la chaîne à 
 Je ne comprend pas quand vous dites qu’il faut piéger l’administrateur...
 -------------------------------------------------------------------------
 
-Contrairement a tous les challenges sur le net, nous on ne fait pas du matching de ‘<script*>*</script>’ ou autre pour simuler les failles client. Un vrai firefox tourne 24/24 7/7 sur les niveaux concernés, quand on vous dit de pieger l’admin, on parle de vrais navigateurs. (Au passage, evitez les alert(), prompt() etc... Ça ne sert à rien de pourrir inutilement les robots firefox avec ces popups.)
+Contrairement a tous les challenges sur le net, nous on ne fait pas du matching de ```<script*>*</script>``` ou autre pour simuler les failles client.
+
+Un vrai firefox tourne 24/24 7/7 sur les niveaux concernés, quand on vous dit de pieger l’admin, on parle de vrais navigateurs.
+
+(Au passage, evitez les alert(), prompt() etc... Ça ne sert à rien de pourrir inutilement les robots firefox avec ces popups.)
 
 Oh non ! J’etais tranquillement en train de faire une mission, quand tout le site de ma mission a ete effacée, base de donnee comprise. Maintenant j’ai un « powned » ecrit en 800x600 sur mon navigateur avec une photo de p0rn. Je peux plus jouer ?
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-Et bien plus pour l’instant. Quelqu’un a été plus rapide et plus fûté, il a fini juste avant toi et il te freine. Retourne sur le portail, et regarde dans combien de temps sera le prochain redump (les niveaux sont recrées à intervalles reguliers, allant de toutes les 15min a toutes les 4h).
+Et bien plus pour l’instant.
+
+Quelqu’un a été plus rapide et plus fûté, il a fini juste avant toi et il te freine.
+
+Retourne sur le portail, et regarde dans combien de temps sera le prochain redump (les niveaux sont recrées à intervalles reguliers, allant de toutes les 15min a toutes les 4h).
 
 Si ca persiste -> IRC ou mail
 
@@ -102,11 +120,17 @@ Et le reste après jusqu'à dimanche.
 C’est super facile, il vaut rien ce challenge !
 -----------------------------------------------
 
-Casse une sandbox, tente de péter le portail. Il paraît que c’est déjà arrivé (pas de preuves à ce jour), essaie de le prouver si tu le fais. Les sandboxs ont déjà bien resisté, je serais ravi qu’on m’apprenne que c’est bypassable. Tu peux aussi venir proposer de nouvelles idées, et même intégrer le staff de l’annee prochaine.
+Casse une sandbox, tente de péter le portail.
+
+Il paraît que c’est déjà arrivé (pas de preuves à ce jour), essaie de le prouver si tu le fais. Les sandboxs ont déjà bien resisté, je serais ravi qu’on m’apprenne que c’est bypassable.
+
+Tu peux aussi venir proposer de nouvelles idées, et même intégrer le staff de l’annee prochaine.
 
 Je peux deface et mettre du porn sur la page d'index ?
 ------------------------------------------------------
 
-On a eu des problemes l'annee derniere avec ca. Des mineurs participent au Thot.
+On a eu des problemes l'annee derniere avec ca.
+
+Des mineurs participent au Thot.
 
 Donc non, merci, le porn et les trucs trash on va s'en passer ;)
