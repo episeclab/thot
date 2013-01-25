@@ -1,15 +1,15 @@
 Alphabetically sorted
 =====================
 
-- Fabien Reboia
-- Julien Castets
+- [Fabien `sr` Reboia](https://github.com/srounet)
+- [Julien `niluje` Castets](https://github.com/brmzkw)
 - [Laurent Humez](https://github.com/godric7)
-- [Corentin Kerisit](https://github.com/cerisier)
+- [Corentin `Cerisier` Kerisit](https://github.com/cerisier)
 - [Manfred `moul` Touron](https://github.com/moul)
-- [Romain Gay](https://github.com/vikbez)
-- Rémi Marek
+- [Romain `Vikbez` Gay](https://github.com/vikbez)
+- [Rémi `Bydooweedoo` Marek](https://github.com/https://github.com/bydooweedoo)
 - [Solvik Blum](https://github.com/solvik)
-- Sébastien Blot
-- Uriel Corfa
-- Vincent Guasconi
+- [Sébastien `blotus` Blot](https://github.com/blotus)
+- [Uriel `korfuri` Corfa](https://github.com/korfuri)
+- [Vincent `Tyop?` Guasconi](https://github.com/tyop)
 - Théo Martin-Castex
