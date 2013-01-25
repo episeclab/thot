@@ -1,7 +1,8 @@
 2008
-====
+----
 
 Firefox
+=======
 
 - auclai_v 
 - **corfa_u**
@@ -10,9 +11,11 @@ Firefox
 - **touron_m**
 
 2009
-====
+----
 
 libertine72
+===========
+
 
 - **boesch_c**
 - bonlie_e
@@ -22,9 +25,10 @@ libertine72
 - sanche_t
 
 2010
-====
+----
 
 mobylette
+=========
 
 - beaupl_b
 - fouill_y
@@ -33,9 +37,10 @@ mobylette
 - **rannou_s**
 
 2011
-====
+----
 
 sida owner
+==========
 
 - **blot_s**
 - **blum_s**
@@ -45,7 +50,7 @@ sida owner
 - **lepage_b**
 
 2012
-====
+----
 
 - la_b
 - suor_s
@@ -54,4 +59,4 @@ sida owner
 - rattan_m
 - lin_g
 
-*: ils sont ou ont ete membres a l'ESL
+**gras**: ils sont ou ont ete membres a l'ESL
