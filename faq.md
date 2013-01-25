@@ -98,7 +98,15 @@ Si ca persiste -> IRC ou mail
 J'ai pas bien compris quand vous disiez qu'aller sur IRC, c'est important. Vous pouvez me répéter pourquoi ?
 ------------------------------------------------------------------------------------------------------------
 
-Sur ##esl (irc.freenode.net:6667) se trouve un m1ch3l, un mignon et gentil petit bot (codé en Go, qui tourne sur plan9 et qui est doté d'un réseau de neuronnes pour apprendre de nouvelles fonctionnalités) présent toute la journée qui distribue des conseils (comment ne pas se faire voler bêtement sa session sur le portail), des coupons (comment gagner facilement des kekos) ; mais aussi tous les organisateurs du ThotProject ainsi que les challengers.
+Sur ##esl (irc.freenode.net:6667) se trouve un m1ch3l,
+Un mignon et gentil petit bot (codé en Go, qui tourne sur plan9 et qui est doté d'un réseau de neuronnes pour apprendre de nouvelles fonctionnalités) présent toute la journée.
+
+Il distribue :
+
+- des conseils (comment ne pas se faire voler bêtement sa session sur le portail)
+- des coupons (comment gagner facilement des kekos)
+
+Retrouvez aussi tous les organisateurs du ThotProject ainsi que les challengers.
 
 J’ai une question qui ne figure pas ici ?
 -----------------------------------------
