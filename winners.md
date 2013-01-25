@@ -4,21 +4,21 @@
 Firefox
 
 - auclai_v 
-- corfa_u*
+- **corfa_u**
 - freier_n
 - roquef_q
-- touron_m*
+- **touron_m**
 
 2009
 ====
 
 libertine72
 
-- boesch_c*
+- **boesch_c**
 - bonlie_e
 - cadic_e
-- castet_j*
-- mouial_m*
+- **castet_j**
+- **mouial_m**
 - sanche_t
 
 2010
@@ -30,19 +30,19 @@ mobylette
 - fouill_y
 - germon_d
 - lebrun_m
-- rannou_s*
+- **rannou_s**
 
 2011
 ====
 
 sida owner
 
-- blot_s*
-- blum_s*
+- **blot_s**
+- **blum_s**
 - carade_g
 - di-mar_j
 - gelin_g
-- lepage_b*
+- **lepage_b**
 
 2012
 ====
