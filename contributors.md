@@ -10,6 +10,7 @@ Alphabetically sorted
 - [Rémi `Bydooweedoo` Marek](https://github.com/https://github.com/bydooweedoo)
 - [Solvik Blum](https://github.com/solvik)
 - [Sébastien `blotus` Blot](https://github.com/blotus)
+- [Sébastien `mxs` Rannou](https://github.com/aimxhaisse)
 - [Uriel `korfuri` Corfa](https://github.com/korfuri)
 - [Vincent `Tyop?` Guasconi](https://github.com/tyop)
-- Théo Martin-Castex
+- [Théo Martin-Castex](https://github.com/khanon)
