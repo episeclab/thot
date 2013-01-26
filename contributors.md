@@ -5,7 +5,7 @@ Alphabetically sorted
 - [Corentin `Cerisier` Kerisit](https://github.com/cerisier)
 - [Fabien `sr` Reboia](https://github.com/srounet)
 - [Julien `niluje` Castets](https://github.com/brmzkw)
-- [Laurent Humez](https://github.com/godric7)
+- [Laurent `Godric` Humez](https://github.com/godric7)
 - [Manfred `moul` Touron](https://github.com/moul)
 - [Rémi `Bydooweedoo` Marek](https://github.com/https://github.com/bydooweedoo)
 - [Romain `Vikbez` Gay](https://github.com/vikbez)
