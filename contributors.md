@@ -14,4 +14,5 @@ Alphabetically sorted
 - [Sébastien `mxs` Rannou](https://github.com/aimxhaisse)
 - [Théo Martin-Castex](https://github.com/khanon)
 - [Uriel `korfuri` Corfa](https://github.com/korfuri)
+- [Victor Goya](https://github.com/phorque)
 - [Vincent `Tyop?` Guasconi](https://github.com/tyop)
