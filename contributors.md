@@ -2,7 +2,7 @@ Alphabetically sorted
 =====================
 
 - [Clément `ubitux` Boesch](https://github.com/ubitux)
-- [Corentin `Cerisier` Kerisit](https://github.com/cerisier)
+- [Corentin `cerisier` Kerisit](https://github.com/cerisier)
 - [Fabien `sr` Reboia](https://github.com/srounet)
 - [François `Aranoxs` Largeteau](https://github.com/aranoxs)
 - [Julien `niluje` Castets](https://github.com/brmzkw)
