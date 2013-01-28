@@ -58,4 +58,4 @@ Firefox
 - roquef_q
 - **touron_m**
 
-**noms en gras**: ils sont ou ont ete membres a l'ESL
+**noms en gras**: ils sont ou ont été membres à l'ESL
