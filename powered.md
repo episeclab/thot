@@ -32,6 +32,11 @@ hosting
 - pwgen
 - json
 - zabbix
+- coffee-script
+- redis
+- resque
+- mongoose
+- mongodb
 
 bot screenshot
 --------------
