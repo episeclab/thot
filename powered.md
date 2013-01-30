@@ -38,6 +38,12 @@ hosting
 - mongoose
 - mongodb
 
+hardware
+--------
+
+- [Epitech Servers & VMs](https://intra-bocal.epitech.eu/)
+- [Onouo Servers](http://www.onouo.com/)
+
 bot screenshot
 --------------
 
