@@ -4,8 +4,8 @@ Powered by
 global
 ------
 
-- Freenode irc server
-- Github
+- [Freenode irc server](http://freenode.net/)
+- [Github](http://github.com)
 
 website
 -------
