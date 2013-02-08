@@ -142,3 +142,13 @@ On a eu des problemes l'annee derniere avec ca.
 Des mineurs participent au Thot.
 
 Donc non, merci, le porn et les trucs trash on va s'en passer ;)
+
+Pourquoi les niveaux sont sur fond orange et vert ?
+---------------------------------------------------
+
+Orange = niveau pas encore validé par le lab ESL
+Vert = validé par le lab ESL
+
+Vous devez remplir correctement le champ explication. Sinon on vous refuse le level, il faudra le refaire et ca vous fera des points en moins !
+
+On va prêter une attention particulière aux explications à partir du grade 3.
