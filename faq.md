@@ -152,3 +152,8 @@ Vert = validé par le lab ESL
 Vous devez remplir correctement le champ explication. Sinon on vous refuse le level, il faudra le refaire et ca vous fera des points en moins !
 
 On va prêter une attention particulière aux explications à partir du grade 3.
+
+Que débloque les lunettes Spider-Cochon ?
+-----------------------------------------
+
+Absolument toutes les sources disponibles.
