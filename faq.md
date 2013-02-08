@@ -157,3 +157,13 @@ Que débloque les lunettes Spider-Cochon ?
 -----------------------------------------
 
 Absolument toutes les sources disponibles.
+
+J'ai terminé tous les niveaux
+-----------------------------
+
+Venez sur IRC pour demander l'ouverture de nouveaux grades
+
+Je n'ai pas terminé tous les niveaux
+------------------------------------
+
+Vous êtes nuls.
