@@ -4,6 +4,13 @@
 anal
 ====
 
+- albert_j
+- boudew_v
+- edmond_j
+- gilmai_k
+- grange_s
+- lequeu_m
+
 2012
 ----
 
