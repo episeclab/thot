@@ -167,3 +167,11 @@ Je n'ai pas terminé tous les niveaux
 ------------------------------------
 
 Vous êtes nuls.
+
+Quand seront nous notés ?
+-------------------------
+
+environ 2 semaines après la fin du projet.
+
+Il nous faut relire tous les commentaires de validations de niveaux, exporter la liste, lancer des moulinettes, mettre le tout dans un tableur, ajouter les commentaires, envoyer les csvs de notations aux dprs, puis attendre que les dprs mettent à jour les notes sur l'intranet.
+
