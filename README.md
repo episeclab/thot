@@ -1,5 +1,7 @@
-ThotProject Presentation Repository
-===================================
+ThotProject
+===========
+
+**Thot Project: Hackage in progress, thanks to M1ch3l support !**
 
 <img src="https://raw.github.com/episeclab/logos/master/logos/thot/thot.png" width="600">
 
