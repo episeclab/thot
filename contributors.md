@@ -13,7 +13,7 @@ Alphabetically sorted
 - [Laurent    `Godric`       Humez](https://github.com/godric7)
 - [Corentin   `cerisier`     Kerisit](https://github.com/cerisier)
 - [François   `Aranoxs`      Largeteau](https://github.com/aranoxs)
-- [Rémi       `Bydooweedoo`  Marek](https://github.com/https://github.com/bydooweedoo)
+- [Rémi       `Bydooweedoo`  Marek](https://github.com/bydooweedoo)
 - [Théo       `khanon`       Martin-Castex](https://github.com/khanon)
 - [Sébastien  `mxs`          Rannou](https://github.com/aimxhaisse)
 - [Fabien     `sr`           Reboia](https://github.com/srounet)
